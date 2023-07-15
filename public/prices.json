@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 50,
+    "features": ["Gym access", "Group classes"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Memberships",
+    "price": 80,
+    "features": ["Gym access", "Group classes", "Personal training"]
+  },
+  {
+    "id": 3,
+    "name": "Corporate Membership",
+    "price": 120,
+    "features": [
+      "Gym access",
+      "Group classes",
+      "Personal training",
+      "Sauna and pool access"
+    ]
+  }
+]
